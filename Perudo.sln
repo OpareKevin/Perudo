@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perudo", "Perudo\Perudo.csproj", "{6DF908D8-124C-477D-9FEB-1FEE003D09FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerudoTest", "PerudoTest\PerudoTest.csproj", "{3DF01717-2139-437F-AB9F-870CBBD82EF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF908D8-124C-477D-9FEB-1FEE003D09FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF908D8-124C-477D-9FEB-1FEE003D09FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF908D8-124C-477D-9FEB-1FEE003D09FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF908D8-124C-477D-9FEB-1FEE003D09FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF01717-2139-437F-AB9F-870CBBD82EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF01717-2139-437F-AB9F-870CBBD82EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF01717-2139-437F-AB9F-870CBBD82EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF01717-2139-437F-AB9F-870CBBD82EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
