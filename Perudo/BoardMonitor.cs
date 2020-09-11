@@ -13,7 +13,7 @@ namespace Perudo
             _playerControllers = playerControllers;
         }
 
-        private int GetTotalOfFaceValue(DiceFaces diceface)
+        public int GetTotalOfFaceValue(DiceFaces diceface)
         {
             var i = 0;
 
@@ -52,6 +52,7 @@ namespace Perudo
             return bet.Quantity < total;
         }
 
+        public Bet CurrentBet { get; set; }
 
         public int TotalDiceInPlay => _playerControllers.Sum(x => x.Peek().Count);
     }

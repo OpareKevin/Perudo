@@ -49,12 +49,12 @@ namespace PerudoTest
         [Test]
         public void CreatePlayers()
         {
-            CreatePlayers createPlayers = new CreatePlayers();
-
-            while (!createPlayers.CreatedPlayers)
-            {
-                createPlayers.Execute();
-            }
+            // CreatePlayers createPlayers = new CreatePlayers();
+            //
+            // while (!createPlayers.CreatedPlayers)
+            // {
+            //    // createPlayers.Execute();
+            // }
         }
     }
 }

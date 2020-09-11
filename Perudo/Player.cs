@@ -21,7 +21,9 @@ namespace Perudo
 
         public void RollDice()
         {
-            for (var i = 0; i < Dice.Count; i++) Dice.Add(new Die());
+            int numDie = Dice.Count;
+            Dice.Clear();
+            for (var i = 0; i < numDie; i++) Dice.Add(new Die());
         }
 
         private List<Die> Dice { get; }

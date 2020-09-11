@@ -11,11 +11,9 @@ namespace Perudo
         {
             Random rnd = new Random();
 
-            lock (rnd)
-            {
+           
                 face =  rnd.Next(1, 7);
-                Thread.Sleep(10);
-            }
+            
             
         }
 
