@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{6DF908D8-124C-477D-9FEB-1FEE003D09FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Perudo/PerudoManager.cs">
+    <Files>
+      <File FileName="Perudo/BoardMonitor.cs" Line="32" Column="17" />
+      <File FileName="Perudo/PerudoEngine.cs" />
+      <File FileName="Perudo/Program.cs" />
+      <File FileName="Perudo/Player.cs" />
+      <File FileName="Perudo/PlayerController.cs" />
+      <File FileName="Perudo/PerudoExceptions.cs" />
+      <File FileName="Perudo/PerudoManager.cs" Line="38" Column="14" />
+      <File FileName="PerudoTest/Tests.cs" />
+      <File FileName="Perudo/Human.cs" />
+      <File FileName="Perudo/DiceFaces.cs" />
+      <File FileName="Perudo/Die.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Perudo" expanded="True">
+            <Node name="Perudo" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Perudo" expanded="True">
+            <Node name="Perudo" expanded="True" selected="True" />
+            <Node name="PerudoTest" expanded="True">
+              <Node name="PerudoTest" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Perudo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Perudo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Projects/Perudo/Perudo/Game.cs" line="29" column="23" endLine="29" endColumn="72" offsetX="-1" offsetY="-1" expression="human" liveUpdate="False" />
+    <Watch file="../../../../../Projects/revolent/revolent/Program.cs" line="30" column="24" endLine="30" endColumn="25" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Kev/RiderProjects/Perudo/Perudo/PerudoEngine.cs" relfile="Perudo/PerudoEngine.cs" line="51" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

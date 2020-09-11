@@ -1,0 +1,11 @@
+/Users/Kev/RiderProjects/Perudo/PerudoTest/bin/Debug/PerudoTest.dll
+/Users/Kev/RiderProjects/Perudo/PerudoTest/bin/Debug/PerudoTest.pdb
+/Users/Kev/RiderProjects/Perudo/PerudoTest/bin/Debug/nunit.framework.dll
+/Users/Kev/RiderProjects/Perudo/PerudoTest/bin/Debug/Perudo.exe
+/Users/Kev/RiderProjects/Perudo/PerudoTest/bin/Debug/Perudo.pdb
+/Users/Kev/RiderProjects/Perudo/PerudoTest/bin/Debug/nunit.framework.xml
+/Users/Kev/RiderProjects/Perudo/PerudoTest/obj/Debug/PerudoTest.csprojAssemblyReference.cache
+/Users/Kev/RiderProjects/Perudo/PerudoTest/obj/Debug/PerudoTest.csproj.CoreCompileInputs.cache
+/Users/Kev/RiderProjects/Perudo/PerudoTest/obj/Debug/PerudoTest.csproj.CopyComplete
+/Users/Kev/RiderProjects/Perudo/PerudoTest/obj/Debug/PerudoTest.dll
+/Users/Kev/RiderProjects/Perudo/PerudoTest/obj/Debug/PerudoTest.pdb
