@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{6DF908D8-124C-477D-9FEB-1FEE003D09FD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Perudo/PerudoManager.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{6DF908D8-124C-477D-9FEB-1FEE003D09FD}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Perudo/BoardMonitor.cs" Line="32" Column="17" />
-      <File FileName="Perudo/PerudoEngine.cs" />
+      <File FileName="Perudo/PerudoEngine.cs" Line="9" Column="18" />
       <File FileName="Perudo/Program.cs" />
       <File FileName="Perudo/Player.cs" />
       <File FileName="Perudo/PlayerController.cs" />
       <File FileName="Perudo/PerudoExceptions.cs" />
-      <File FileName="Perudo/PerudoManager.cs" Line="38" Column="14" />
+      <File FileName="Perudo/PerudoManager.cs" Line="37" Column="30" />
       <File FileName="PerudoTest/Tests.cs" />
       <File FileName="Perudo/Human.cs" />
       <File FileName="Perudo/DiceFaces.cs" />
@@ -17,14 +17,20 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Perudo" expanded="True">
-            <Node name="Perudo" selected="True" />
+            <Node name="Perudo" expanded="True">
+              <Node name="PerudoEngine.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
         <State name="__root__">
           <Node name="Perudo" expanded="True">
-            <Node name="Perudo" expanded="True" selected="True" />
+            <Node name="Perudo" expanded="True">
+              <Node name="Perudo" expanded="True">
+                <Node name="Perudo.PerudoEngine" selected="True" />
+              </Node>
+            </Node>
             <Node name="PerudoTest" expanded="True">
               <Node name="PerudoTest" expanded="True" />
             </Node>
