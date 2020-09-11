@@ -19,6 +19,8 @@ The player who lost a die in the last round is the first player in the new round
 If a player has lost his fourth die, the round after losing the fourth die is played differently. The player is called Palafico. First, aces are not wild. Next, the player may begin with aces, and third, players who have not been palafico before may only bid on the same number that the player before them bid on. The palafico rules do not apply when there are only two players left!
 
 The last player left with at least one die wins the game. ("Perudo" is a registered trademark of University Games Corporation, Burlingame, CA.)
+
+
 What is it?
 A command-line Perudo clone written in C#. Supports an indefinite number of players and 5 dice each.
 
